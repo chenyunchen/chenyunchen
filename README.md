@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱  I’m currently learning Golang
+- 👯 I'm Golang Taiwan Group Staff
+- 💬  Ask me about Golang
+- 📫 How to reach me: me@yunchen.tw
+
 <!--
 **chenyunchen/chenyunchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
